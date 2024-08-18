@@ -13,7 +13,7 @@ const data = [
         "id":2,
         "attributes": {
             "name":"Air Jordan XXXVII Low PF",
-            "price":16295,
+            "price":14295,
             "original_price":16295,
             "image":"/product-2.webp",
             "subtitle":"Men's Shoes"
@@ -23,7 +23,7 @@ const data = [
         "id":3,
         "attributes": {
             "name":"Jordan Why Not .6 PF",
-            "price":13995,
+            "price":10995,
             "original_price":13995,
             "image":"/product-3.webp",
             "subtitle":"Men's Shoes"
