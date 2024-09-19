@@ -18,7 +18,10 @@ const Header = () => {
   const [show, setShow] = useState("translate-y-0");
   const [lastScrollY, setLastScrollY] = useState(0);
 
-  const {cartItems} = useSelector((state) => state.cart);
+  const { cartItems } = useSelector((state) => state.cart);
+  // const cont = () => {
+
+  // }
 
   function controlNavbar() {
     if(window.scrollY > 200){
